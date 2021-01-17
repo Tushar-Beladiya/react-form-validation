@@ -1,0 +1,15 @@
+.form-check-group span {
+  text-decoration: underline;
+  color: #3886be;
+  font-weight: 500;
+}
+article form .form-row .form-group label {
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+.form-group label {
+  text-align: left;
+}
+label.form-check-label {
+  margin-left: 0.5rem;
+}

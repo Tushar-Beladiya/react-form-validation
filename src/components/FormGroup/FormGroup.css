@@ -1,0 +1,18 @@
+@media (min-width: 768px) {
+  article form .form-row {
+    display: flex;
+  }
+}
+@media (min-width: 768px) {
+  article form .form-row .form-group:not(:last-child) {
+    margin-right: 0.5rem;
+  }
+}
+
+span.form_error {
+  color: red;
+  justify-content: left;
+  display: flex;
+  margin: 0.3rem 0 0 0.2rem;
+  font-size: 0.8rem;
+}
